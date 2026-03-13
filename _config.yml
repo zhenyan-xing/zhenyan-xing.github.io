@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhenyan Xing
+title: **Zhenyan** Xing
 first_name: Zhenyan(Zingjim)
 middle_name: R.
 last_name: Xing(Hang)
@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: protein design, protein therapeutics, AI for protein, AI for drug discovery
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://zhenyan-xing.github.io # the base hostname & protocol for your site
 baseurl: ""
