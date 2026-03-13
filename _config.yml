@@ -14,7 +14,7 @@ footer_text: >
 
 keywords: protein design, protein therapeutics, AI for protein, AI for drug discovery
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "🔬" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://zhenyan-xing.github.io # the base hostname & protocol for your site
 baseurl: ""
