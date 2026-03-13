@@ -6,7 +6,7 @@ subtitle: Undergraduate researcher，EE Undergrad@XJTU
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xing_pic_chat.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Xi'an Jiaotong University</p>
