@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate researcher，EE Undergrad@XJTU
+subtitle: Researcher Assistant@UVA，EE Undergrad@XJTU
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>B.S. in Electrical Engineering</p>
     <p>Charlottesville, VA / Xi'an, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -33,4 +33,4 @@ My research focuses on AI-driven protein design and computational biology. I am 
 
 Recently, I have been working on de novo protein design with RFdiffusion-based pipelines, protein–RNA complex design, and related problems in AI for science. More broadly, I am interested in building machine learning methods that can support biological discovery and molecular engineering.
 
-I am preparing for a future Ph.D. in AI for protein design / computational biology and am always excited to connect with people working at the intersection of machine learning and biology.
+**I am preparing for a future Ph.D. in AI for protein design / computational biology and am always excited to connect with people working at the intersection of machine learning and biology.**
