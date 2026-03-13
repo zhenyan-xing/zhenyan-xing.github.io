@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at Xi'an Jiaotong University, majoring in Electrical Engineering, and currently working as a research assistant at the University of Virginia.
+I am an undergraduate student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), majoring in Electrical Engineering, and currently working as a research assistant at the [University of Virginia](https://www.virginia.edu/).
 
-My research focuses on AI-driven protein design, computational biology, and biomolecular machine learning. I am particularly interested in generative modeling, structure-aware learning, protein binder design, and retrieval-based methods for biological design.
+My research focuses on AI-driven protein design and computational biology. I am particularly interested in protein design for therapeutics
 
 Recently, I have been working on de novo protein design with RFdiffusion-based pipelines, protein–RNA complex design, and related problems in AI for science. More broadly, I am interested in building machine learning methods that can support biological discovery and molecular engineering.
 
