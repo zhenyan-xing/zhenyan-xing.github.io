@@ -415,8 +415,8 @@ ninja.data = [{
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-rfdiffusion-based-symmetric-protein-design",
+          title: 'RFdiffusion-based symmetric protein design',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
