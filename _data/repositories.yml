@@ -7,8 +7,8 @@ github_repos:
   - zhenyan-xing/sidechainresidue
   - zhenyan-xing/fa2end
   - zhenyan-xing/fixseq
-  - partial-diffusion-in-batch
-  - find_interface_hotspot
-  - alphafold3-protein-screening
-  - protein-classify-and-cluster
-  - .fa-to-.json
+  - zhenyan-xing/partial-diffusion-in-batch
+  - zhenyan-xing/find_interface_hotspot
+  - zhenyan-xing/alphafold3-protein-screening
+  - zhenyan-xing/protein-classify-and-cluster
+  - zhenyan-xing/.fa-to-.json
