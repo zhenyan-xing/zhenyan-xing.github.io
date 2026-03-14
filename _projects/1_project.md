@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: RFdiffusion-based symmetric protein design
 description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: the work was done in sustech under the supervision of Prof. Zhe Li
     img: /assets/img/12.jpg
     ---
 
