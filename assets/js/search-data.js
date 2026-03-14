@@ -417,7 +417,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-rfdiffusion-based-symmetric-protein-design",
           title: 'RFdiffusion-based symmetric protein design',
-          description: "with background image",
+          description: "the work was done in sustech under the supervision of Prof. Zhe Li",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
