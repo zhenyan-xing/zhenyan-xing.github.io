@@ -7,8 +7,6 @@ cv:
   summary: An undergraduate majoring in EE in Xi'an Jiaotong University, RA @ Yang Lab of UVA
 
   social_networks:
-    - network: X
-      username: Hang795037aihm
     - network: GitHub
       username: zhenyan-xing
     - network: LinkedIn
@@ -30,7 +28,6 @@ cv:
         studyType: Undergraduate Student
         start_date: 2023
         end_date: 2027
-        score: "86/100"
 
 
       - institution: The Pollytechnic University of Hong Kong
