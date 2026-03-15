@@ -420,11 +420,6 @@ ninja.data = [{
           description: "the work was done in sustech under the supervision of Prof. Zhe Li",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -460,6 +455,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-de-novo-helical-linker-design-for-mbp-dele1-fusion-proteins",
+          title: 'De novo Helical Linker Design for MBP–DELE1 Fusion Proteins',
+          description: "Designing rigid helical linkers for fusion-protein engineering with RFdiffusion, ProteinMPNN, and AlphaFold3.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mbp-dele1-linker-design/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
