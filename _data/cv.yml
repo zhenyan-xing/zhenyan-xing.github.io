@@ -31,7 +31,7 @@ cv:
 
 
       - institution: The Pollytechnic University of Hong Kong
-        location: kowloon, Hong Kong
+        location: Hong Kong
         url: https://www.polyu.edu.hk/
         area: Electrical Engineering
         studyType: Exchange student
@@ -51,7 +51,7 @@ cv:
           - proteinMPNN
           - SuperFold
 
-      - company: University of VIrginia
+      - company: University of Virginia
         position: Visiting Student
         location: Charlottesvill, VA
         start_date: 2025
@@ -73,7 +73,7 @@ cv:
     Awards:
       - title: Provincial 1st price of Math modeling
         date: 2025-12-01
-        awarder: Chinese Society for INdustrial and Applied Mathematics 
+        awarder: Chinese Society for Industrial and Applied Mathematics 
         url: https://en.mcm.edu.cn/
 
 
