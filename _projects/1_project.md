@@ -2,8 +2,8 @@
 layout: page
 title: RFdiffusion-based symmetric protein design
 description: the work was done in sustech under the supervision of Prof. Zhe Li
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/symemtrical-protein-cover.png
+importance: 3
 category: work
 related_publications: false
 ---
