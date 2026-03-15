@@ -421,7 +421,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hallucination%20Co-Design%20of%20Protein%E2%80%93RNA%20Complexes%20/";
             },},{id: "projects-rfdiffusion-based-de-novo-symmetric-protein-design",
-          title: 'RFdiffusion-based _de novo_ symmetric protein design',
+          title: 'RFdiffusion-based de novo symmetric protein design',
           description: "the work was done in sustech under the supervision of Prof. Zhe Li",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RFdiffusion-based%20symmetric%20protein%20design/";
