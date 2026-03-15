@@ -1,6 +1,6 @@
 ---
 layout: page
-title: De novo Helical Linker Design for MBP–DELE1 Fusion Proteins
+title: _De novo_ Helical Linker Design for MBP–DELE1 Fusion Proteins
 description: Designing rigid helical linkers to stabilize flexible DELE1 constructs for cryo-EM using RFdiffusion, ProteinMPNN, and AlphaFold3.
 img: assets/img/mbp-dele1-linker-cover-withtag.jpg
 importance: 1
