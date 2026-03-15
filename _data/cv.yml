@@ -27,7 +27,7 @@ cv:
         location: Xi'an, China
         url: https://en.xjtu.edu.cn/
         area: Electrical Engineering
-        studyType: Bachelor
+        studyType: Undergraduate Student
         start_date: 2023
         end_date: 2027
         score: "86/100"
@@ -73,32 +73,11 @@ cv:
         summary: Hallucination design of RNA binder
 
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Provincial 1st price of Math modeling
+        date: 2025-12-01
+        awarder: Chinese Society for INdustrial and Applied Mathematics 
+        url: https://en.mcm.edu.cn/
 
 
     Skills:
@@ -120,11 +99,7 @@ cv:
       - name: computational biology
         keywords: "de novo protein design, protein therapeutics, AI for protien"
 
-    Certificates:
-      - name: Provincial 1st price of Math modeling
-        date: 2025-12-01
-        issuer: Chinese Society for INdustrial and Applied Mathematics 
-        icon: fa-solid fa-location-dot
+
 
 
 
