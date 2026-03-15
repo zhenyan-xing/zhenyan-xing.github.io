@@ -420,11 +420,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-hallucination-co-design-of-protein-rna-complexes",
+          title: 'Hallucination Co-Design of Protein–RNA Complexes',
+          description: "Exploring hallucination and model-inversion strategies for protein–RNA binder design.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/Hallucination%20Co-Design%20of%20Protein%E2%80%93RNA%20Complexes%20/";
             },},{id: "projects-rfdiffusion-based-de-novo-symmetric-protein-design",
           title: 'RFdiffusion-based _de novo_ symmetric protein design',
           description: "the work was done in sustech under the supervision of Prof. Zhe Li",
