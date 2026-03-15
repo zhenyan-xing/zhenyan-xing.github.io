@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: De novo Helical Linker Design for MBP–DELE1 Fusion Proteins
+description: Designing rigid helical linkers for fusion-protein engineering with RFdiffusion, ProteinMPNN, and AlphaFold3.
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
-giscus_comments: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
