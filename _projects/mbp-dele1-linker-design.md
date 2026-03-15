@@ -1,81 +1,60 @@
 ---
 layout: page
 title: De novo Helical Linker Design for MBP–DELE1 Fusion Proteins
-description: Designing rigid helical linkers for fusion-protein engineering with RFdiffusion, ProteinMPNN, and AlphaFold3.
-img: assets/img/3.jpg
+description: Designing rigid helical linkers to stabilize flexible DELE1 constructs for cryo-EM using RFdiffusion, ProteinMPNN, and AlphaFold3.
+img: assets/img/mbp-dele1-linker-cover.jpg
 importance: 1
 category: work
 related_publications: false
 ---
+## Overview
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project focused on a practical structural-biology problem: obtaining a more stable cryo-EM construct for **DELE1**, whose TPR region is highly flexible and therefore difficult to resolve clearly. To improve structural stability, we explored a fusion-protein strategy in which **maltose-binding protein (MBP)** was used as a rigid and cryo-EM-friendly tag. The central design challenge was to build a **helical linker** that could connect MBP and DELE1 in a structurally coherent way, ideally preserving a continuous alpha-helical geometry rather than introducing an additional flexible junction.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As an undergraduate researcher, I led the **computational design workflow** for this project, while collaborators carried out the downstream wet-lab validation.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## What I worked on
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+My main contribution was to establish and run the full design pipeline for MBP–DELE1 fusion construction. This included defining the geometric setup for the fusion, generating linker backbones, designing sequences, evaluating candidate structures, and prioritizing designs for experimental testing.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+A key part of the project was that the linker was not treated as an arbitrary connecting segment. Instead, the design goal was to produce a **rigid, helix-like connection** between MBP and DELE1. To support this, I first aligned the relevant terminal helical regions so that the designed linker could extend the overall helical direction more naturally before entering the generative design stage.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In addition to the design workflow itself, I also helped make the pipeline more reusable within the lab by preparing internal documentation and giving a protein design training session for group members.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Methods / Pipeline
 
-{% raw %}
+The computational pipeline followed a staged **RFdiffusion → ProteinMPNN → AlphaFold3** workflow.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+First, I performed a structural preprocessing step in which the helical segments near the intended fusion interface were manually aligned. This step was important because the project required a **single, stable helical connection**, not just a short linker inserted between two domains.
 
-{% endraw %}
+Next, I used **RFdiffusion** to generate candidate backbone solutions for the fusion region. These backbone designs were then passed to **ProteinMPNN** for sequence design. The resulting sequences were subsequently evaluated with **AlphaFold3**, which served as the main structure-confidence filter.
+
+Candidate prioritization combined both automated and manual assessment. I first screened designs using AlphaFold3 confidence metrics, with particular attention to the **pLDDT of the linker region**, while also considering the model's overall confidence score. After narrowing the set computationally, I manually inspected the top candidates for structural plausibility, including side-chain packing and overall interface quality. This produced a shortlist of top designs for experimental follow-up.
+
+## Results / Current Status
+
+The full computational pipeline has been established and successfully run end-to-end. From the final shortlist, **six top candidates** were prioritized, and **three designs** were selected for wet-lab testing as an initial experimental trial.
+
+At the current stage, the project should be viewed as a **computationally completed and experimentally ongoing** effort. The main outcome so far is the successful development of a practical design workflow for cryo-EM-oriented fusion stabilization, together with a set of candidate MBP–DELE1 constructs that are now being evaluated experimentally.
+
+## Research Significance
+
+Although this project was motivated by a specific DELE1 structural question, it also reflects a broader research direction that interests me: using **AI-driven protein design** to solve concrete problems in structural biology and molecular engineering.
+
+Rather than treating generative protein design as an isolated modeling exercise, this work connected backbone generation, sequence design, and structure prediction to an experimentally relevant objective. It also highlighted how biomolecular machine learning methods can be used not only for de novo design in the abstract, but also for improving the tractability of difficult biological targets.
+
+For my broader research development, this project was an important step toward working at the intersection of **computational biology, protein design, and biomolecular machine learning**.
+
+---
+
+## Lab Training and Documentation
+
+As a byproduct of this project, I also organized the workflow into lab-facing training material and documentation for protein design practice. This included an internal tutorial and a Notion-based guide intended to make the pipeline easier to understand and reuse for other design tasks.
+
+[Internal workflow notes / training page](YOUR-NOTION-LINK-HERE)
+
+## Design Iterations and Practical Notes
+
+This project involved multiple rounds of practical iteration, including adjustments to connection geometry, helical alignment, and candidate selection criteria. One recurring challenge was balancing **helical continuity**, **global structural confidence**, and **local side-chain plausibility** at the fusion region.
+
+The current workflow relies mainly on structure generation and prediction-based filtering. A more complete future version could incorporate additional physics-based or dynamics-aware evaluation, such as molecular dynamics screening, to better assess linker rigidity beyond static structure prediction alone.
