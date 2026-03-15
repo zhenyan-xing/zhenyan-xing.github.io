@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: This page contain most of my repos on github, which would hopefully be helpful for protein design, for any questions you may meet, feel free to raise an issue or [email me](mailto:zyxing@gmail.com) 
 nav: true
 nav_order: 4
 ---
