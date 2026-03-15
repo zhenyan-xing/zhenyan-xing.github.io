@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: research projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of my interesting de novo protein design projects
 nav: true
 nav_order: 3
 display_categories: [work, fun]
