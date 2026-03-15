@@ -415,12 +415,7 @@ ninja.data = [{
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-hallucination-co-design-of-protein-rna-complexes",
+          section: "News",},{id: "projects-hallucination-co-design-of-protein-rna-complexes",
           title: 'Hallucination Co-Design of Protein–RNA Complexes',
           description: "Exploring hallucination and model-inversion strategies for protein–RNA binder design.",
           section: "Projects",handler: () => {
