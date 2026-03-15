@@ -457,7 +457,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-de-novo-helical-linker-design-for-mbp-dele1-fusion-proteins",
           title: 'De novo Helical Linker Design for MBP–DELE1 Fusion Proteins',
-          description: "Designing rigid helical linkers for fusion-protein engineering with RFdiffusion, ProteinMPNN, and AlphaFold3.",
+          description: "Designing rigid helical linkers to stabilize flexible DELE1 constructs for cryo-EM using RFdiffusion, ProteinMPNN, and AlphaFold3.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mbp-dele1-linker-design/";
             },},{id: "teachings-data-science-fundamentals",
