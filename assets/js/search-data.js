@@ -415,12 +415,7 @@ ninja.data = [{
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
-          section: "News",},{id: "projects-rfdiffusion-based-symmetric-protein-design",
-          title: 'RFdiffusion-based symmetric protein design',
-          description: "the work was done in sustech under the supervision of Prof. Zhe Li",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
@@ -450,6 +445,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-rfdiffusion-based-symmetric-protein-design",
+          title: 'RFdiffusion-based symmetric protein design',
+          description: "the work was done in sustech under the supervision of Prof. Zhe Li",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RFdiffusion-based%20symmetric%20protein%20design/";
             },},{id: "projects-de-novo-helical-linker-design-for-mbp-dele1-fusion-proteins",
           title: 'De novo Helical Linker Design for MBP–DELE1 Fusion Proteins',
           description: "Designing rigid helical linkers to stabilize flexible DELE1 constructs for cryo-EM using RFdiffusion, ProteinMPNN, and AlphaFold3.",
