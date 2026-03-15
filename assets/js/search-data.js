@@ -451,7 +451,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/RFdiffusion-based%20symmetric%20protein%20design/";
             },},{id: "projects-de-novo-helical-linker-design-for-mbp-dele1-fusion-proteins",
-          title: 'De novo Helical Linker Design for MBP–DELE1 Fusion Proteins',
+          title: '_De novo_ Helical Linker Design for MBP–DELE1 Fusion Proteins',
           description: "Designing rigid helical linkers to stabilize flexible DELE1 constructs for cryo-EM using RFdiffusion, ProteinMPNN, and AlphaFold3.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mbp-dele1-linker-design/";
