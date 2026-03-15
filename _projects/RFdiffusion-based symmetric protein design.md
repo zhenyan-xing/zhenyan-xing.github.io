@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RFdiffusion-based de novo symmetric protein design
-description: the work was done in sustech under the supervision of Prof. Zhe Li
+description: De novo design of closed repeat proteins using RFdiffusion, ProteinMPNN, and SuperFold. The work was done in sustech under the supervision of Prof. Zhe Li
 img: assets/img/symemtrical-protein-cover.png
 importance: 3
 category: work
