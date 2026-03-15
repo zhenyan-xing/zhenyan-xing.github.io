@@ -51,7 +51,7 @@ For my broader research development, this project was an important step toward w
 
 As a byproduct of this project, I also organized the workflow into lab-facing training material and documentation for protein design practice. This included an internal tutorial and a Notion-based guide intended to make the pipeline easier to understand and reuse for other design tasks.
 
-[Internal workflow notes / training page](YOUR-NOTION-LINK-HERE)
+[Internal workflow notes / training page](https://cerulean-tune-0ae.notion.site/Protein-Design-Pipline-32493a77b1218088803ff24b3b1e813b#32493a77b121818088f2d13edf892c83)
 
 ## Design Iterations and Practical Notes
 
