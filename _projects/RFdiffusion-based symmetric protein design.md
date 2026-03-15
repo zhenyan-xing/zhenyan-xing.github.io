@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RFdiffusion-based _de novo_ symmetric protein design
+title: RFdiffusion-based de novo symmetric protein design
 description: the work was done in sustech under the supervision of Prof. Zhe Li
 img: assets/img/symemtrical-protein-cover.png
 importance: 3
