@@ -445,8 +445,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-rfdiffusion-based-symmetric-protein-design",
-          title: 'RFdiffusion-based symmetric protein design',
+            },},{id: "projects-rfdiffusion-based-de-novo-symmetric-protein-design",
+          title: 'RFdiffusion-based _de novo_ symmetric protein design',
           description: "the work was done in sustech under the supervision of Prof. Zhe Li",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RFdiffusion-based%20symmetric%20protein%20design/";
