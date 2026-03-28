@@ -15,3 +15,8 @@ I am currently reading this book for its perspective on how beliefs, habits, and
 What interests me most is not only its discussion of wealth itself, but also its broader ideas about self-limiting patterns, long-term thinking, and personal growth. I see it as a book about mindset as much as money.
 
 Money is extremely important in the field where it functions, extremely unimportant in where it don't(I think that's basically the meaning)
+
+Your field of focus determines what you find in life.
+Focus on opportunities and that's what you find.
+
+If you want to get rich, focus on making, keeping, and investing you money. If you want to be poor, focus on spending your money.
