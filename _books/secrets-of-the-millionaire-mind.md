@@ -4,10 +4,10 @@ title: Secrets of the Millionaire Mind
 author: T. Harv Eker
 cover: assets/img/book_covers/secretofmillionairemind-cover.jpg
 categories: finance self-help mindset personal-development
-tags: currently-reading
+tags: finished
 date: 2026-03-15
 started: 2025-12-23
-status: Reading
+status: Finished
 ---
 
 
@@ -104,3 +104,8 @@ This size of the promblem is nefver the issue-what matters is the size of you!
 
 The bigger the problems you can handle, the bigger the business you can handle.
 
+Think yourself as your container for wealth. You must grow to be a big container so you cannot only hold more wealth but also attract more wealth.
+
+For rich people, they don't focus on the problem; they focus on their goal. The mind can focus on on predominant thing at a time, so you either whining about the problem or you are working on the solution. Rich and successful people are solution-oriented; they spend thei time and energy strategizing and planning the answers to challenges that come up, and creating sustems to make certain that problem doesn't occur again.
+
+Say: "I am bigger than any problems." " I can handle any problems"
