@@ -4,7 +4,7 @@ cv:
   email: zyxing05@gmail.com
   location: Xi'an China / Charlottesville, VA
   image: ""
-  summary: An undergraduate majoring in EE in Xi'an Jiaotong University, RA @ Yang Lab of UVA
+  summary: An undergraduate majoring in EE in Xi'an Jiaotong University,  RA @ Liyu Lab of CUHK ,Ex RA @ Yang Lab of UVA
 
   social_networks:
     - network: GitHub
@@ -71,6 +71,11 @@ cv:
 
 
     Awards:
+      - title: H price of The Mathematical Contest in Modeling (MCM)
+        date: 2026-05-09
+        awarder: COMAP – The Consortium for Mathematics and its Applications 
+        url: https://www.comap.com/contests/mcm-icm
+        
       - title: Provincial 1st price of Math modeling
         date: 2025-12-01
         awarder: Chinese Society for Industrial and Applied Mathematics 
