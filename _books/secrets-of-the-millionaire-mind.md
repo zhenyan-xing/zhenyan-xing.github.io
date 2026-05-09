@@ -7,6 +7,7 @@ categories: finance self-help mindset personal-development
 tags: finished
 date: 2026-05-09
 started: 2025-12-23
+finished: 2026-05-09
 status: Finished
 ---
 
