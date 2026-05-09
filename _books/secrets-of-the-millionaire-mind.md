@@ -5,7 +5,7 @@ author: T. Harv Eker
 cover: assets/img/book_covers/secretofmillionairemind-cover.jpg
 categories: finance self-help mindset personal-development
 tags: finished
-date: 2026-03-15
+date: 2026-05-09
 started: 2025-12-23
 status: Finished
 ---
@@ -20,7 +20,7 @@ What interests me most is not only its discussion of wealth itself, but also its
 Money is extremely important in the field where it functions, extremely unimportant in where it don't(I think that's basically the meaning)
 
 
-## WealthFile 
+## WealthFile 5 Rich people focus on opportunities
 
 Your field of focus determines what you find in life.
 Focus on opportunities and that's what you find.
@@ -108,4 +108,6 @@ Think yourself as your container for wealth. You must grow to be a big container
 
 For rich people, they don't focus on the problem; they focus on their goal. The mind can focus on on predominant thing at a time, so you either whining about the problem or you are working on the solution. Rich and successful people are solution-oriented; they spend thei time and energy strategizing and planning the answers to challenges that come up, and creating sustems to make certain that problem doesn't occur again.
 
-Say: "I am bigger than any problems." " I can handle any problems"
+Say: "I am bigger than any problems." " I can handle any problems."
+
+**Whenever you are feeling upset over a "big" problem, point to yourself and say, "Mini me, mini me." Then take a deep breath and say to yourself, "I can handle this. I am bigger than any problem."**
