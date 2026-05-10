@@ -112,3 +112,28 @@ For rich people, they don't focus on the problem; they focus on their goal. The 
 Say: "I am bigger than any problems." " I can handle any problems."
 
 **Whenever you are feeling upset over a "big" problem, point to yourself and say, "Mini me, mini me." Then take a deep breath and say to yourself, "I can handle this. I am bigger than any problem."**
+
+## 10 Rich people are excellent receivers
+
+People are challenged by receiving for several reasons. First, many people feel unworthy or undeserving; Second, most people have bought into the adage "It's better to give than to receive."
+
+many people subconsciously punish themselves.
+
+**If you say you're worthy, you are. If you say you're not worthy, you're not. Either way you will live into your story.**
+It's a lot easier to change your story than your worthiness. Simply make up a new and much more supportive story and live into that.
+
+**BY THE POWER INVESTED IN ME, I HEREBY ANOINT YOU AS 'WORTHY' FROM NOW UNTIL FOREVER MORE!**
+
+**For every giver there must be a receiver, and for every receiver there must be a giver.**
+
+_if you are not willing to receive, then you are "ripping off" those who want to give to you._
+
+If somebody isn't willing to receive his or her share, it must go to whoever will. The rain doesn't care who gets it and neither does money.
+
+**_Money will only make you more of what you already are._** If you are kind, money will afford you the opportunity to be kinder.
+
+1.begin to nuture yourself
+2.practice going crazy with excitement and gratitude anytime you find or receive any mocey
+
+**How you do any thing is how you do everything**
+The way you are in one area is usually the way you are in all areas
