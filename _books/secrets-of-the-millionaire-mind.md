@@ -137,3 +137,55 @@ If somebody isn't willing to receive his or her share, it must go to whoever wil
 
 **How you do any thing is how you do everything**
 The way you are in one area is usually the way you are in all areas
+
+## 11 Rich people choose to get paid based on results
+
+**There's nothing wrong with getting a steady paycheck, unless it interferes with your ability to earn what you're worth. There's the rub. It usually does.**
+
+They don't realize that this security comes with a price, and the cost is wealth. Living ased in security is living based in fear.
+
+Rich people make their income from their profits, work on commision or percentages of revenue, and choose stock options and profit sharing in lieu of higher salaries.
+
+To get rich you will need to be paid based on results. Poor people trade their time for money.
+
+**Never have a ceiling on your income**
+
+Work for yourself, then you'll know  you're making exactly what you're worth.
+
+_The vast majority of millionaires became rich by being in their own business._
+
+you can becomme a commissioned salesperson. Selling is one of the world's highest-paid professions. If you're good, you can earn a fortune.
+
+You'll never get rich working on straight salary for someone else. If you're going to get a job, make sure you get paid on percentage. Otherwise, go work for yourself!
+
+Try: begin part-time, you can easily join a network marketing company or being a coach, or something paid on performance and results.
+
+## 12 Rich peopel think "both"
+
+Rich people understand that with a little creativity you can almost always figgure out a way to have the best of both worlds. 
+Ask yourself **"How can I have both?"**
+
+If you listen to them, I'll end up like them.
+
+Poor and many middle-class people believe that they have to choose between money and the other aspects of life. Consequently they've rationalized a position that money is not as important as other things.
+
+**_You can have your cake and eat it too!_**
+
+**Rich people believe "You can have your cake and eat it too." Middle-class people believe "Cake is too rich, so I'll only have a little piecee." Poor people don't believe they deserve cake, so they order a doughnut, focus on the hole, and wonder why they have "nothing"**
+
+Either/or thinking also trips up people who believe that "If I have more, then someone else will have less" Again, this is nothing more than fear-based, self-defeating programming.
+
+Whenever alternatives are presented to you, ask yourself, "How can I have both?"
+
+## 13 Rich people focus on their net worth. Poor people focus on their working income.
+
+The true measure of wealth is net worth, not working income.
+
+The four net worth factors are:
+- 1.Income
+- 2.Savings
+- 3.Investments
+- 4.Simplification
+
+
+
