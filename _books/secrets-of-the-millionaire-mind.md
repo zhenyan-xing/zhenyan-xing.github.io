@@ -20,6 +20,25 @@ What interests me most is not only its discussion of wealth itself, but also its
 
 Money is extremely important in the field where it functions, extremely unimportant in where it don't(I think that's basically the meaning)
 
+## 4 Rich people think big
+
+**The law of income: YOu will be paid in direct proportion to the value you deliver accoding to the marketplace.**
+
+The key word is value.
+
+Four factors determine your value in the marketplace: _supply, demand, quanlity, and quantity._
+
+Are you going to play big or play small? It's your choice.
+
+Many people play small because: They're scared to death of failure and they're even more frightened of success. People play small because they feel small, they feel unworthy.
+
+The happiest people are those who use their natural talents to the utmost.
+
+The definition of an entrepreneur: a person who solves problems for people at a profit - "Problem solver"
+
+How will I know when I've completed my mission? **If you are still breathing, you are not done.**
+
+small thinking and small actions lead to being both broke and unfulfilled. Big thinking and big actions lead to having both money and meaning. The choice is yours!
 
 ## WealthFile 5 Rich people focus on opportunities
 
@@ -52,7 +71,6 @@ When negative energy run through me, I _neutralized_ the negativity in the mind.
 
 
 Try these characteristics on for size: positive, reliable, focused, determined, persistent, hardworking, energetic, good with people, a competent communicator, semi-intelligent, and an expert in at least on area.
-
 
 when you see people better or good, **bless that which you want**
 
@@ -187,5 +205,16 @@ The four net worth factors are:
 - 3.Investments
 - 4.Simplification
 
+Income coms in two forms: working income and passive income. Working income is how we fill up our financial "funnel," so to speak. Passive income is money earned without you actively working
 
+Savings is also imperative.
 
+ONce you've bugun savins a decent portion of your income, then you can move to the next stage and make your money grow through investing. Generally, the better you are at investing, the faster your money will grow and generate a greater net worth. Rich people take the time and energy to learn about investing and invetments.
+
+Simplification goes hand in hand with saving money, whereby you consciously create a lifestyle in which you need less money to live on.
+
+**What you focus on expands. "Where attention goes, energy flows and results show."**
+
+Focus on all four net worth factors: increasing your income, increaasing your savings, increasing you investment return, and decreasing your cost of living by simplifying your lifestyle.
+
+Maybe hire a financial planner.
