@@ -20,9 +20,26 @@ What interests me most is not only its discussion of wealth itself, but also its
 
 Money is extremely important in the field where it functions, extremely unimportant in where it don't(I think that's basically the meaning)
 
+## 3 Rich people are committed to being rich. Poor people want to be rich
+
+**_The number one reason most people don't get what they want is that they don't know what they want._** Rich people are totally clear that they want wealth. They are unwavering in their desire. They are fully committed too creating wealth. They do **_whatever it takes_** to have wealth.
+
+the level of wanting:
+1. I _want_ to be rich
+2. I _choose_ to be rich
+3. I _commit_ to be rich
+
+_I will be rich or I will die trying_
+
+**If you are not fully, totally and truly committed to creating wealth, chances are you won't.**
+
+The universe will assist you, guide you, support you, and even create miracles for you. But first, you have to commit!
+
+**I, Zhenyan Xing, do hereby commit to becoming a millionaire or more by 2035.**
+
 ## 4 Rich people think big
 
-**The law of income: YOu will be paid in direct proportion to the value you deliver accoding to the marketplace.**
+**The law of income: You will be paid in direct proportion to the value you deliver accoding to the marketplace.**
 
 The key word is value.
 
