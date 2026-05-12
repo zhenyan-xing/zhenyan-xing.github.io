@@ -218,3 +218,31 @@ Simplification goes hand in hand with saving money, whereby you consciously crea
 Focus on all four net worth factors: increasing your income, increaasing your savings, increasing you investment return, and decreasing your cost of living by simplifying your lifestyle.
 
 Maybe hire a financial planner.
+
+## 14 Rich people manage their money well. Poor people mismanage their money well
+
+Wealthy people have different and more supportive money habits.
+
+**Until you show you can handle what you can handle what you've got, you won't get any more!**
+
+You must acquire the habits and skills of managing a small amount of money before you can have a large amount. Remember, we are creatures of habit, and therefore **the habit of managing your money is more important thatn the amount.**
+
+Open a separate bank account designated your Financial Freedom Account. Put 10 percent of every dollar you receive into this fund. When do you get to spend this money? _Never!_ It is never spent - only invested.
+
+Money miracles will occur once you demonstrate to the universe that you can handle your finances properly.
+
+put another 10 percent of your income into a "play" account, because we are holistic in nature. It is primarily used to nurture yourself. It's for the extraspecial things like going to a restaurant and ordering a bottle of their finest wine o champagne.
+
+The play accoount rule is that it must be spent every month.
+
+all the account:
+- 20% Financial Freedom
+- 10% play
+- 10% Long-Term Savings for Spending
+- 10% Education account
+- 50% Necessities
+
+(There are 10% to Give account, but due to you limited budgt, move that to financial freedom first till you graduate)
+
+**Either you control money, or it will control you.**
+
