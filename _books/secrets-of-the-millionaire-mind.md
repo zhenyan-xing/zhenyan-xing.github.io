@@ -263,3 +263,36 @@ all the account:
 
 **Either you control money, or it will control you.**
 
+## 15 Rich people have their moeny work hard for them. Poor people work hard for their money
+
+working hard is important, but working hard alone will never make you rich. First work hard for money, then you let money work hard for you.
+
+Never have to work again...unless you choose to. You work by choice, not by necessity.
+
+Definition of finandial freedom: _The ability to live the lifestyle you desire without having to work or rely on any one else for money_
+
+Two sources of passive income:
+1. money work for you, including investment earnings from financial instruments such as stocks, bonds, T-bills, money markets, mutual funds.
+2. business work for you, which entails generating ongoing income from businesses where you do not need to be personallly involved, including rental real estate, royalties from books, music, or software;licensing your ideas; becoming a franchisor; owning storage units; owning vending or other types of coin-operated machines; and network marketing and so on.
+
+It's a matter of energy, the business is working and producing value for people.
+
+Network marketing, do not need much up-front capital, and enjoy ongoing residual income once you've done the initial work.
+
+reasons why people have a tough time creating passive income:
+1. conditioning, most of us were programmed _not_ to earn passive income.
+2. most of us were never taught how to earn passive income. The end result is that most of us don't _know_ much about it, and there fore don't _do_ much about it.
+3. we have never given it much attention.
+
+Rich people think long-term. They balance their spending on enjoyment today with investing for greedom tomorrow.
+
+You havve the power to make choices. It's a matter of priorities. Poor people choose _now_, rich people choose _balance_.
+
+Buying things for immediate gratification is nothing more than a futile atttempt to make up for our dissatisfaction in life. "Spending" money you don't have comes from "expending" emotions you _do_ have.
+Overspending and the need for immediate gratification have little to do with the actual item you're buying, and everything to do with lack of fulfillment in your life.
+
+Rich people byt assets, things that will likely go up in value. Poor people buy expenses, things that will definitely go down in value. Rich people collect lands. Poor people collect bills.
+
+**Rich people see every dollar as a "seed" that can be planted to earn a hundred more dollars, which can then be replanted to earn a thousand more dollars**
+
+The trick is to get educated. Learn about the investment world, you should get educated.
