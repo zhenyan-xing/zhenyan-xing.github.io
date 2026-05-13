@@ -20,6 +20,13 @@ What interests me most is not only its discussion of wealth itself, but also its
 
 Money is extremely important in the field where it functions, extremely unimportant in where it don't(I think that's basically the meaning)
 
+## 2 Rich people play the money game to win. Poor people play the money game to _not_ loss.
+
+Poor people play the money game on defense rather than offense.
+They just want to be "comfortable", but there's a huge difference between being comfortable and being rich.
+
+**If your goal is to be comfortable, chances are you'll never get rich. But if your goal is to be rich, chances are you'll end up mighty comfortable**
+
 ## 3 Rich people are committed to being rich. Poor people want to be rich
 
 **_The number one reason most people don't get what they want is that they don't know what they want._** Rich people are totally clear that they want wealth. They are unwavering in their desire. They are fully committed too creating wealth. They do **_whatever it takes_** to have wealth.
