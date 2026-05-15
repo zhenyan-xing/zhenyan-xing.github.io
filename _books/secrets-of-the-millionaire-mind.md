@@ -303,3 +303,5 @@ Rich people byt assets, things that will likely go up in value. Poor people buy 
 **Rich people see every dollar as a "seed" that can be planted to earn a hundred more dollars, which can then be replanted to earn a thousand more dollars**
 
 The trick is to get educated. Learn about the investment world, you should get educated.
+
+## 16
