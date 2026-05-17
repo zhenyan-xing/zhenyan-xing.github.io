@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher Assistant@UVA，EE Undergrad@XJTU
+subtitle: Researcher Assistant@CUHK，EE Undergrad@XJTU
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Xi'an Jiaotong University</p>
     <p>B.S. in Electrical Engineering</p>
-    <p>Charlottesville, VA / Xi'an, China</p>
+    <p>Hong Kong / Xi'an, China</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), majoring in Electrical Engineering, and currently working as a research assistant at the [University of Virginia](https://www.virginia.edu/).
+I am an undergraduate student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), majoring in Electrical Engineering, and currently working as a research assistant at the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html).
 
 My research focuses on AI-driven protein design and computational biology. I am particularly interested in protein design for therapeutics
 
