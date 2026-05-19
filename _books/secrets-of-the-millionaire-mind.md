@@ -20,6 +20,10 @@ What interests me most is not only its discussion of wealth itself, but also its
 
 Money is extremely important in the field where it functions, extremely unimportant in where it don't(I think that's basically the meaning)
 
+**You can choose to think in ways that will support you in your happiness and success instead of ways that don't**
+
+two type of habits: _doing_ habits and _not-doing_ habits
+
 ## 2 Rich people play the money game to win. Poor people play the money game to _not_ loss.
 
 Poor people play the money game on defense rather than offense.
