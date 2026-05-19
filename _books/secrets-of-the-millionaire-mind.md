@@ -17,12 +17,38 @@ I am currently reading this book for its perspective on how beliefs, habits, and
 
 What interests me most is not only its discussion of wealth itself, but also its broader ideas about self-limiting patterns, long-term thinking, and personal growth. I see it as a book about mindset as much as money.
 
-
-Money is extremely important in the field where it functions, extremely unimportant in where it don't(I think that's basically the meaning)
-
 **You can choose to think in ways that will support you in your happiness and success instead of ways that don't**
 
 two type of habits: _doing_ habits and _not-doing_ habits
+
+## 1 Rich people believe "I create my life." Poor people believe "Life happens to me."
+
+Poor people are playing the _role_ of victim.
+victim clue:
+- Blame: There is always someone else or something else thath is to blame;
+- Justifying: They are always justifying or rationalizing their situation by saying sth like "Money's not really important." Anyone who says money isn't important doesn't have any!**Money is extremely important in the field where it functions, extremely unimportant in where it doesn't**
+- Complaining: What you focus on expands. **when you are complaining, you become a living, breathing "crap magnet."** You should stary as far away from complainers as possible because negative energy is infectious. Homework: **challenge yourself to not complain at all.** **_There is no such thing as a really rich victim!_**
+
+**Money is extremely important in the field where it functions, extremely unimportant in where it doesn't**
+
+The reason why people be a victim is attention.
+
+And **we've confused attention with love.**
+
+It is virtually impossible to be truly happy and successful when you're constantly yearning for attention. You usually end up as a "people pleaser" begging for approval.
+
+It is imperative to "unhook" attention and love, for a number of reasons:
+1. You will be more successful;
+2. You will be happier;
+3. You can find "true" love in your life.
+
+People love each other largely from the place of their own ego, as in "I love what you do for me."
+
+By disconnecting attention from love, you will be freed up to love another for who they _are_, rather thatn what they do for you.
+
+You can be a victim _or_ you can be rich. Every time you blame, justify, or complain, you are _slitting your financial throat._
+
+Realize that you create your wealth, your nonwealth, and every level in between.
 
 ## 2 Rich people play the money game to win. Poor people play the money game to _not_ loss.
 
