@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), majoring in Electrical Engineering, previously RA at [Jie-yang lab @ UVA](https://jieyang-lab.com/),and and incoming research intern at the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html).
+I am an undergraduate student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), majoring in Electrical Engineering, previously RA at [Jie-yang lab @ UVA](https://jieyang-lab.com/).
 
 My research focuses on AI-driven protein design and computational biology. I am particularly interested in protein design for therapeutics
 
