@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher Assistant@CUHK，EE Undergrad@XJTU
+subtitle: Undergraduate Researcher@XJTU
 
 profile:
   align: right
