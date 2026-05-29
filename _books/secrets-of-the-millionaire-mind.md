@@ -14,6 +14,17 @@ status: Finished
 
 I am currently reading this book for its perspective on how beliefs, habits, and internal narratives shape financial behavior.
 
+**The book is about your finnacial blueprint**
+
+**Your income can grow only to the extent you do!**
+
+**_The Roots Create The Fruits_**
+
+**If you want to change the fruits, you will first haveto change the roots. If you want to change the visible, you must first change the invisible.**
+
+**Money is a result, wealth is a result, health is a result, illness is a result, your weight is a result. We live in a world of cause and effect.**
+
+
 
 What interests me most is not only its discussion of wealth itself, but also its broader ideas about self-limiting patterns, long-term thinking, and personal growth. I see it as a book about mindset as much as money.
 
