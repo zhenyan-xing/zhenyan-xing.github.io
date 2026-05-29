@@ -334,4 +334,70 @@ Rich people byt assets, things that will likely go up in value. Poor people buy 
 
 The trick is to get educated. Learn about the investment world, you should get educated.
 
-## 16
+## 16 Rich people act in spite of fear. Poor people let fear stop them
+
+This chapter is really similar to the 50th law by 50 cent
+
+thoughts lea to feelings, feelings lead to actions, actions lead to results.
+
+**Action is the "bridge" between the inner world and he outer world**
+
+Fear, doubt, and worry are among the greatest obstacles, not only to success, but to happiness as well.
+
+_Feel the Fear and Do It anyway_
+
+**A true warrior can "tame the cobra of fear"**
+
+**It is not necessary to try to get rid of fear in order to succeed.**
+
+Because we are creatures of habit, we need to practice acting in spite of fear, inspite of doubt, inspite of worry, inspite of uncertainty, inspite of inconvenience, inspite of discomfort, and even to practice acting when we're not in the mood to act.
+
+Anything will stop you. Not because of the size of the challenge but because of the size of you!
+
+Either you are a person who will be stopped, or you are a person who won't be stoped. You choose.
+
+**You have to be willing to do whatever it takes. _You have to 'train' yourself to not be stopped by anything._**
+
+**If you are willing to do only what's easy, life will be hard. But if you are willing to do what's hard, life will be easy.**
+
+Why is acting in spite of discomfort so important? Because "comfortable" is where you're at now. If you want to move to a new level in your life, you must break through your comfort zone and practice doing things that are not comfortable.
+
+For middle class and poor people, being comfortable is their biggest priority in life.
+But being comfortable is highly overrated.
+
+Being comfortable may make you feel warm, fuzzy and secure, but it doesn't allow you to grow. To grow as a person you have to expand your comfort zone. The only time you can actually grow is when you are _outside_ your comfort zone.
+
+When you move through the uncomfort zone and succeed, you will have a new, expanded comfort zone, which means you will have become a "bigger" person.
+
+**The only time you are actually growing is when you are uncomfortable.**
+
+CZ=WZ: Your "comfort zone" equals your "wealth zone."
+
+When you have a large "container" (comfort zone), the universe will rush to fill the space.Rich and successful people have a big comfort zone, and they are constantly expanding it to be able to attain and hold more wealth.
+
+Nobody ever died of discomfort, yet living in the name of comfort has killed more ideas, more opportunities, more actions, and more growth than everthing else combined.
+
+Try this: The next time you are feeling uncomfortable, uncertain, or agraid, instead of shrinking and retreating back to safety, press forward.
+Notice and experience the feelings of discomfort, recognizing that they are only feelings - and that they do not have the power to stop you. If you doggedly continue in spite of discomfort, you will eventually reach your goal.
+
+When the feelings of discomfort do lessen, take it as a sign to increase your objective, because the minute you get comfortable, you have stopped growing. To grow yourself to your gullest potential, you must always be living at the edge of your box.
+
+We must _practice_, to practice acting in spite of fear and practice even when you're not in the mood.
+
+_You are not your mind_. You are much bigger and greater than your mind alone.
+
+**_Training and managing your own mind is the most important skill you could ever own, interms of both happiness and success._**
+You start with observation. Notice how your mind produces thoughts that are not supportive to your wealth and happiness, then you can begin to consciously replace those nonempowering thoughts with empowering ones.
+
+You can choose your own thoughts.
+
+You will pay for negarive thoughts. You will pay in money, in energy, in time, in health, and in your level of happiness.
+
+Replace nonsupportive thought with a more supportive way of thinking: powering thinking.
+
+power thinking is not positive thinking:
+People use positive thinking to pretend that everything is rosy. With power thinking, we understand that everything is neutral, that nothing has meaning except for the meaning we give it, and that we are going to make up a story and give something its meaning.
+
+**Act in spite of fear, doubt, worry, inconvenience, discomfort, and when I'm not in the mood.**
+
+## 17
