@@ -12,7 +12,7 @@ status: Finished
 ---
 
 
-I am currently reading this book for its perspective on how beliefs, habits, and internal narratives shape financial behavior.
+I am read this book for its perspective on how beliefs, habits, and internal narratives shape financial behavior.
 
 **The book is about your finnacial blueprint**
 
@@ -24,7 +24,40 @@ I am currently reading this book for its perspective on how beliefs, habits, and
 
 **Money is a result, wealth is a result, health is a result, illness is a result, your weight is a result. We live in a world of cause and effect.**
 
+The inner world creates the outer world.
 
+Harv: **Give me five minutes, and I can predict your financial future for the rest of your life.**
+By identifying the money and success blueprint.
+
+Wealth principle:
+- Programming leads to thoughts
+- Thoughts lead to feelings
+- Feelings lead to actions
+- Actions lead to results
+
+**When the subconscious mind must choose between deeply rooted emotions and logic, emotions will almost always win.**
+
+subconcious -> thinking -> decisions -> actions -> outcomes
+
+four key elements of change:
+1. Awareness
+2. Understanding
+3. Disassociation
+4. Reconditioning/Declaration: _what I heard about money isn't necessarily true. I choose to adopt new ways of thinking that support my happiness and success._; _What I modeled around money was their way. I choose my way._; _I release my nonsupportive money experiences from the past and create a new and rich future._
+
+focus on saving for a _joyous_ day
+
+**If your motivation for acquiring money or success comes from a nonsupportive root such as fear, anger or the need to "prove" yourself, your money will never bring you happiness.**
+
+Fear is not just a problem, it's a habit.
+
+Money was meant to be accumulated as the means to create _freedom._
+
+Your money blueprint will determine your financial life.
+
+**The only way to permanently change the temperature in the room is to reset the thermostat. In the same way, the only way to change your level of financial success "permanently" is to reset your financial thermostat.**
+
+**Consciousness is observing your thoughts and actions so that you can live from true choice in the present moment rather than being run by programming from the past.**
 
 What interests me most is not only its discussion of wealth itself, but also its broader ideas about self-limiting patterns, long-term thinking, and personal growth. I see it as a book about mindset as much as money.
 
