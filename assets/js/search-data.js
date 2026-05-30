@@ -418,6 +418,11 @@ ninja.data = [{
           description: "Exploring hallucination and model-inversion strategies for protein–RNA binder design.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hallucination%20Co-Design%20of%20Protein%E2%80%93RNA%20Complexes%20/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HelixLinkerLab/";
             },},{id: "projects-rfdiffusion-based-de-novo-symmetric-protein-design",
           title: 'RFdiffusion-based de novo symmetric protein design',
           description: "De novo design of closed repeat proteins using RFdiffusion, ProteinMPNN, and SuperFold. The work was done in sustech under the supervision of Prof. Zhe Li",
