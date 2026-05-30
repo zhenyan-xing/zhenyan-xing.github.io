@@ -411,4 +411,14 @@ People use positive thinking to pretend that everything is rosy. With power thin
 
 **Act in spite of fear, doubt, worry, inconvenience, discomfort, and when I'm not in the mood.**
 
-## 17
+## 17 Rich people constantly learn and grow. Poor people think they already know.
+
+If you _live_ it, you know it. If you're not really rich and really happy, there's a good chance you still have some things to learn about money, success, and life.
+
+**You can be right _or_ you can be rich, but you can't be both.**
+
+If you keep doing what you've always done, you'll keep getting what yuo've always got. You already know "your" way, what you need is to know some new ways.
+
+If you are not growing, you are dying。
+
+
