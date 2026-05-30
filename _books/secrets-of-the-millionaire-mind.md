@@ -421,4 +421,16 @@ If you keep doing what you've always done, you'll keep getting what yuo've alway
 
 If you are not growing, you are dying。
 
+If you don't have the money to learn how to be successful, you probably need it more than anyone.
+
+The definition of insanity is doing the same thing over and over and expecting different results.
+
+Anything your mind conjures  up as a response is nothing more than an excuse or justification.
+
+A good coach will always ask more of you.
+
+Success is a learnable skill. You can learn to succeed at anything. **Every master was once a disaster.**
+
+The fastest way to get rich and stay rich is to work on developing _you_! The idea is to grow yourself in to a "successful" person. Your outer world is merely a reflection of your inner world. You are the root; your results are the fruits.
+
 
