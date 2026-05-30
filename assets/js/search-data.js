@@ -405,6 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/secrets-of-the-millionaire-mind/";
+            },},{id: "books-the-alchemist",
+          title: 'The alchemist',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/The%20alchemist/";
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
