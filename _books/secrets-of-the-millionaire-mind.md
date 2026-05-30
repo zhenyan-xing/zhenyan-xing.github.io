@@ -433,4 +433,16 @@ Success is a learnable skill. You can learn to succeed at anything. **Every mast
 
 The fastest way to get rich and stay rich is to work on developing _you_! The idea is to grow yourself in to a "successful" person. Your outer world is merely a reflection of your inner world. You are the root; your results are the fruits.
 
+You take yourself with you wherever you go.
 
+The order of success: BE, DO, HAVE. If I _become_ a successful person, I will be able to _do_ what I need to do to _have_ what I want.
+
+The goal of creating wealth is not primarily to have a lot of money, but to help you grow yourself into the best person you can possibly be. Success is not a "what," it's a "who."
+
+The rich people are _experts_ in their field. Middle class people are mediocre in their field, and poor people are poor in their field.
+
+**_To get paid the best, you must be the best._**
+
+Rich people make sure they learn from those who have already been where they themselves want to go. Those who had real-world results to back up their talk.
+
+Consider hiring a personal success coach to keep you on track.
