@@ -418,9 +418,9 @@ ninja.data = [{
           description: "Exploring hallucination and model-inversion strategies for protein–RNA binder design.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hallucination%20Co-Design%20of%20Protein%E2%80%93RNA%20Complexes%20/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-helixlinkerlab-a-automatic-pipline-for-protein-linker-design",
+          title: 'HelixLinkerLab: a automatic pipline for protein linker design',
+          description: "An automatic pipline to design rigid helical linkers for cryo-EM using structure prediction models and inverse folding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HelixLinkerLab/";
             },},{id: "projects-rfdiffusion-based-de-novo-symmetric-protein-design",
