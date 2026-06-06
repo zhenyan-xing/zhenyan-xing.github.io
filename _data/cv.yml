@@ -97,6 +97,9 @@ cv:
       - name: Cantonese
         summary: "Fluent"
 
+      - name: Latin
+        summary: "Learning"
+
     Interests:
       - name: computational biology
         keywords: "de novo protein design, protein therapeutics, AI for protien"
