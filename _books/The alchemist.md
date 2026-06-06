@@ -10,4 +10,5 @@ started: 2026-05-30
 status: Reading
 ---
 
-
+santiago want to travel to the world to see how other people live, to see their lands.
+Well, the same for me. If you need to be a shepherd, then become one!s
