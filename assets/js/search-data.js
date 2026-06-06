@@ -400,7 +400,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-secrets-of-the-millionaire-mind",
+      },{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/A-little-history-of-the-world/";
+            },},{id: "books-secrets-of-the-millionaire-mind",
           title: 'Secrets of the Millionaire Mind',
           description: "",
           section: "Books",handler: () => {
@@ -410,11 +415,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/The%20alchemist/";
-            },},{id: "books-a-little-history-of-the-world",
-          title: 'A little history of the world',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/A-little-history-of-the-world/";
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
