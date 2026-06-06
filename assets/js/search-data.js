@@ -410,6 +410,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/The%20alchemist/";
+            },},{id: "books-a-little-history-of-the-world",
+          title: 'A little history of the world',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/A-little-history-of-the-world/";
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
