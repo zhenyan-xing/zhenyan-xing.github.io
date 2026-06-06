@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: A little history of the world
-author: [Ernst Gombrich](https://en.wikipedia.org/wiki/Ernst_Gombrich)
+author: "Ernst Gombrich"
 cover: assets/img/A_Little_History_of_the_World.png
 categories: history
 tags: reading
