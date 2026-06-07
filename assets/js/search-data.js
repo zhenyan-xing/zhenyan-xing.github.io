@@ -418,7 +418,12 @@ ninja.data = [{
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
-          section: "News",},{id: "projects-hallucination-co-design-of-protein-rna-complexes",
+          section: "News",},{id: "projects-de-novo-binder-design-targeting-dele-1",
+          title: 'de novo binder design targeting DELE-1',
+          description: "De novo design binders targeting DELE-1 to inhibit interactions with HRI",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DELE-1%20binder%20design/";
+            },},{id: "projects-hallucination-co-design-of-protein-rna-complexes",
           title: 'Hallucination Co-Design of Protein–RNA Complexes',
           description: "Exploring hallucination and model-inversion strategies for protein–RNA binder design.",
           section: "Projects",handler: () => {
