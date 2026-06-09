@@ -8,9 +8,9 @@ category: work
 related_publications: false
 ---
 
-The code is here: [HelixLinkerLab](http://github.com/zhenyan-xing/HelixLinkerLab)
+The codebase has to be set as private due to institutional regulations.
 
-The repo has to be set as private, due to institutional regulations, hoping in some day I can share it will you all.
+Hoping in some day I can share it will you all.
 
 the model would automatically truncate the disorder region and link the target protein with MBP, a rigid protein under cryo-EM.
 
