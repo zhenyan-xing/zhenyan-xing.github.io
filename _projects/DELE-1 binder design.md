@@ -8,3 +8,4 @@ category: work
 giscus_comments: true
 ---
 
+Details of this projects have to be set as private due to institutional regulations
