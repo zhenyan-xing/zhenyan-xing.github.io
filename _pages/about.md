@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), majoring in [Electrical Engineering](https://en.xjtu.edu.cn/2021-03/24/c_605925.htm), previously RA at [Jie-yang lab @ UVA](https://jieyang-lab.com/), RA at [Programmable Biomaterial Design Lab @ Sustech](https://www.sustech.edu.cn/en/faculties/lizhe.html)
+I am an undergraduate student at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), majoring in [Electrical Engineering](https://en.xjtu.edu.cn/2021-03/24/c_605925.htm), previously RA at [Jie-yang lab @ UVA](https://jieyang-lab.com/)  and [Programmable Biomaterial Design Lab @ Sustech](https://www.sustech.edu.cn/en/faculties/lizhe.html)
 
 My research focuses on AI-driven protein design and computational biology. I am particularly interested in protein design for therapeutics
 
