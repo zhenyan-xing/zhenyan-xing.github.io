@@ -438,6 +438,11 @@ ninja.data = [{
           description: "De novo design of closed repeat proteins using RFdiffusion, ProteinMPNN, and SuperFold. The work was done in sustech under the supervision of Prof. Zhe Li",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RFdiffusion-based%20symmetric%20protein%20design/";
+            },},{id: "projects-development-of-a-device-for-producing-air-discharge-plasma-activated-mist",
+          title: 'Development of a Device for Producing Air-Discharge Plasma-Activated Mist',
+          description: "A magnetic component was developed for the atomization device to magnetize plasma-activated water and enhance the atomization effect.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/discharge-plasma/";
             },},{id: "projects-de-novo-helical-linker-design-for-mbp-dele1-fusion-proteins",
           title: 'De novo Helical Linker Design for MBP–DELE1 Fusion Proteins',
           description: "Designing rigid helical linkers to stabilize flexible DELE1 constructs for cryo-EM using RFdiffusion, ProteinMPNN, and AlphaFold3.",
