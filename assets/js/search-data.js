@@ -415,6 +415,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/A-little-history-of-the-world/";
+            },},{id: "books-psycho-cybernetics",
+          title: 'Psycho Cybernetics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Psycho-cybernetics/";
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
