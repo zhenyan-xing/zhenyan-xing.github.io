@@ -4,10 +4,10 @@ title: The alchemist
 author: Paulo Coelho
 cover: assets/img/book_covers/bookcover-thealchemist.jpg
 categories: self-help mindset personal-development
-tags: reading
+tags: finished
 date: 2026-05-30
 started: 2026-05-30
-status: Reading
+status: Finished
 ---
 
 santiago want to travel to the world to see how other people live, to see their lands.
