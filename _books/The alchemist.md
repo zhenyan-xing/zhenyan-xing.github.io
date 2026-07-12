@@ -7,6 +7,7 @@ categories: self-help mindset personal-development
 tags: finished
 date: 2026-05-30
 started: 2026-05-30
+finished: 2026-07-02
 status: Finished
 ---
 
