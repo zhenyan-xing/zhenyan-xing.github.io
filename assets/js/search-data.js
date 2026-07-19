@@ -400,7 +400,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-secrets-of-the-millionaire-mind",
+      },{id: "books-atomic-habits",
+          title: 'Atomic Habits',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/atomic-habits/";
+            },},{id: "books-secrets-of-the-millionaire-mind",
           title: 'Secrets of the Millionaire Mind',
           description: "",
           section: "Books",handler: () => {
@@ -420,11 +425,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Psycho-cybernetics/";
-            },},{id: "books-atomic-habits",
-          title: 'Atomic Habits',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/atomic-habits/";
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
