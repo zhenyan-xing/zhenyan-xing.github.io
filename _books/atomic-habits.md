@@ -10,3 +10,4 @@ started: 2025-09-24
 status: Reading
 ---
 
+This is a really good book and I recommend everyone to read it.
