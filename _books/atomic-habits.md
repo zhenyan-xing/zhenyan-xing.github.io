@@ -32,3 +32,14 @@ This is a really good book and I recommend everyone to read it.
 |  | 4.2 | Make “doing nothing” enjoyable. When avoiding a bad habit, design a way to see the benefits. |
 |  | 4.3 | Use a habit tracker. Keep track of your habit streak and “don’t break the chain.” |
 |  | 4.4 | Never miss twice. When you forget to do a habit, make sure you get back on track immediately. |
+
+## HOW TO BREAK A BAD HABIT
+
+| Law | No. | Strategy |
+|---|---:|---|
+| **Inversion of the 1st Law — Make It Invisible** | 1.5 | Reduce exposure. Remove the cues of your bad habits from your environment. |
+| **Inversion of the 2nd Law — Make It Unattractive** | 2.4 | Reframe your mindset. Highlight the benefits of avoiding your bad habits. |
+| **Inversion of the 3rd Law — Make It Difficult** | 3.6 | Increase friction. Increase the number of steps between you and your bad habits. |
+|  | 3.7 | Use a commitment device. Restrict your future choices to the ones that benefit you. |
+| **Inversion of the 4th Law — Make It Unsatisfying** | 4.5 | Get an accountability partner. Ask someone to watch your behavior. |
+|  | 4.6 | Create a habit contract. Make the costs of your bad habits public and painful. |
