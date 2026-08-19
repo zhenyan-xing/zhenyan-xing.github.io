@@ -132,5 +132,14 @@ blockquote {
     h6 {
       color: var(--global-danger-block-title);
     }
+
+    h1,
+    h2,
+    h3,
+    .post-title {
+      font-family: Georgia, "Times New Roman", serif;
+      font-weight: 500;
+      letter-spacing: -0.02em;
+}
   }
 }
