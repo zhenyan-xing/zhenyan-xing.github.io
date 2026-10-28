@@ -351,6 +351,10 @@
   {% endif %}
 {% endif %}
 
+{% if page.permalink == '/projects/' and page.horizontal != true %}
+  <script defer src="{{ '/assets/js/project-tilt.js' | relative_url | bust_file_cache }}"></script>
+{% endif %}
+
 {% if page.tabs %}
   <!-- Jekyll Tabs -->
   <script src="{{ '/assets/js/tabs.min.js' | relative_url | bust_file_cache }}"></script>

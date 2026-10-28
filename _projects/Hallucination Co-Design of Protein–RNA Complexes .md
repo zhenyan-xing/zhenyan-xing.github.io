@@ -1,38 +1,39 @@
 ---
 layout: page
-title: Hallucination Co-Design of Protein–RNA Complexes 
-description: Exploring hallucination and model-inversion strategies for protein–RNA binder design.
-img: assets/img/rna-binder-design-cover.png
-importance: 2
-category: work
-giscus_comments: true
+title: "BIRD: Biophysics Informed de novo RNA Binder Design"
+description: "Designing RNA sequences for protein targets by optimizing structural confidence, RNA geometry, and interface chemistry."
+img: assets/img/bird-8f5g-complex.png
+img_alt: "BIRD protein–RNA complex: 8F5G C03, 62.3 ns snapshot"
+img_pair: assets/img/bird-mark.png
+img_pair_alt: Original bird illustration from the BIRD repository logo
+hover_caption: BIRD · RNA binder design
+importance: 1
+category: research
+related_publications: false
 ---
 
 ## Overview
 
-This project explores generative co-design of protein–RNA complexes through a hallucination / model-inversion framework. The central idea is to use pretrained structure predictors as structure-aware scoring functions to guide interface generation and optimization.
+BIRD designs RNA sequences for protein targets using a frozen Protenix structure predictor. It combines continuous sequence optimization with discrete mutation search, guided by objectives for RNA geometry and the chemistry of the protein–RNA interface.
 
-This work is being carried out at the Chinese University of Hong Kong under the supervision of Prof. Yu Li.
+I developed the design workflow at the Chinese University of Hong Kong under the supervision of Prof. Yu Li.
 
-## What I worked on
+## My contribution
 
-I have been prototyping a workflow for protein–RNA binder design inspired by hallucination-based and BindCraft-style optimization strategies. The project focuses on how multimodal structural information can be incorporated into iterative design.
+- Developed RNA geometry and interface chemistry objectives and integrated them into sequence optimization.
+- Combined continuous optimization with discrete mutation search to refine candidate RNA binders.
+- Evaluated BIRD alongside four other methods on 109 shared protein targets using AlphaFold 3, and conducted component ablations and molecular dynamics case studies.
 
-## Methods / Pipeline
+## Evaluation
 
-The design framework explores confidence- and geometry-based objectives, including:
+The matched comparison covers 301 target and design seed combinations. I examined interface confidence alongside recovery of experimentally determined binding poses. BIRD improved several confidence measures relative to some baselines, but these gains did not consistently extend to native pose recovery. This distinction shaped the evaluation and interpretation of the designs.
 
-- structure-confidence signals analogous to pLDDT / PAE
-- interface contacts
-- steric clashes
-- multimodal interface quality constraints
+## Manuscript and code
 
-The broader goal is to use these objectives to iteratively optimize candidate protein–RNA interfaces.
+**BIRD: Biophysics Informed de novo RNA Binder Design**
 
-## Current status
+Zhenyan Xing, Dongchen He, Ziyan Zhuang, Yanruisheng Shao, and Yu Li.
 
-This project is currently at the prototyping stage. It has helped me think more deeply about how pretrained complex predictors can be repurposed as differentiable or quasi-differentiable scoring modules for molecular design.
+To be submitted to _Bioinformatics_.
 
-## Research significance
-
-This direction is closely aligned with my long-term interests in AI-driven biomolecular design, especially beyond protein-only systems.
+[View code](https://anonymous.4open.science/r/BIRD-5D34/)

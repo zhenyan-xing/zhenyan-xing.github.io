@@ -1,21 +1,17 @@
 ---
 layout: page
-title: "HelixLinkerLab: a automatic pipline for protein linker design"
-description: "An automatic pipline to design de novo helical linkers for protein using structure prediction models and inverse folding"
+title: "HelixLinkerLab: An Automated Pipeline for Protein Linker Design"
+description: "A reusable pipeline for designing de novo helical linkers with structure prediction and inverse folding."
 img: assets/img/logicofHelixLinkerLab.png
-importance: 1
-category: work
+importance: 3
+category: research
 related_publications: false
 ---
 
-The codebase has to be set as private due to institutional regulations.
+HelixLinkerLab is a lab-facing pipeline for de novo helical linker design. The goal is to connect a target protein to MBP, a rigid cryo-EM-friendly fusion partner, while reducing unwanted disorder in the connection region.
 
-Hoping in some day I can share it will you all.
+The project grew out of my MBP-DELE1 linker-design work. Instead of relying only on manual linker design and mutation trials, the workflow standardizes structure preprocessing, linker generation, sequence design, and structure-based screening.
 
-the model would automatically truncate the disorder region and link the target protein with MBP, a rigid protein under cryo-EM.
+At a high level, the pipeline identifies flexible or disordered terminal regions, defines a fusion geometry, generates candidate linker backbones, designs sequences, and ranks candidates using structure-prediction confidence and manual inspection.
 
-The project comes from the intuition to link the less rigid protein with MBP, a rigid protein under cryo-EM to make the extraction of their structure easier.
-
-And currently work mainly based on manually design and mutations, but without a model covers all the work of linker design.
-
-
+The implementation is currently private due to institutional regulations, but I hope to share more details publicly when possible.

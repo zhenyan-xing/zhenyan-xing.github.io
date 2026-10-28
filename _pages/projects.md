@@ -1,11 +1,11 @@
 ---
 layout: page
-title: research projects
+title: projects
 permalink: /projects/
-description: A growing collection of my interesting de novo protein design projects
+description: Selected research and engineering projects in protein design, computational biology, and device development.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, engineering]
 horizontal: false
 ---
 

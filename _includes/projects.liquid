@@ -1,35 +1,44 @@
 <div class="col">
-  <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
-      {% if project.img %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=project.img
-          sizes = "250px"
-          alt="project thumbnail"
-          class="card-img-top"
-        %}
-      {% endif %}
-      <div class="card-body">
-        <h2 class="card-title">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
-        <div class="row ml-1 mr-1 p-0">
-          {% if project.github %}
-            <div class="github-icon">
-              <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ project.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
-              </div>
-              {% if project.github_stars %}
-                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-                  <i class="fa-solid fa-star"></i>
-                  <span id="{{ project.github_stars }}-stars"></span>
-                </span>
-              {% endif %}
-            </div>
-          {% endif %}
+  <figure class="tilted-card project-tilt">
+    <div class="tilted-card__shadow" aria-hidden="true"></div>
+    <a class="tilted-card__body" href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
+      <div class="tilted-card__face">
+        {% if project.img %}
+          <div class="project-tilt__visual{% if project.img_pair %} project-tilt__visual--paired{% endif %}">
+            {% if project.img_pair %}
+              <img
+                src="{{ project.img | relative_url }}"
+                alt="{{ project.img_alt | default: project.title | escape }}"
+                loading="lazy"
+                decoding="async"
+              >
+              <img src="{{ project.img_pair | relative_url }}" alt="{{ project.img_pair_alt | escape }}" loading="lazy" decoding="async">
+            {% else %}
+              {% assign project_image_alt = project.img_alt | default: project.title %}
+              {% include figure.liquid loading="lazy" path=project.img sizes="(max-width: 767px) 90vw, 300px" alt=project_image_alt %}
+            {% endif %}
+            {% if project.category -%}
+              <span class="project-tilt__glass">{{ project.category | escape }}</span>
+            {%- endif %}
+          </div>
+        {% endif %}
+        <div class="project-tilt__content">
+          <h2 class="card-title">{{ project.title | escape }}</h2>
+          <p class="card-text">{{ project.description | escape }}</p>
         </div>
+        <span class="tilted-card__glare" aria-hidden="true"></span>
+        <span class="tilted-card__rim" aria-hidden="true"></span>
+        <span class="tilted-card__edge" aria-hidden="true"></span>
       </div>
-    </div>
-  </a>
+    </a>
+    <figcaption class="tilted-card__caption" aria-hidden="true">{{ project.hover_caption | default: project.title | escape }}</figcaption>
+  </figure>
+  {% if project.github %}
+    <a class="project-tilt__code" href="{{ project.github }}" aria-label="Code for {{ project.title | escape }}">
+      <i class="fa-brands fa-github gh-icon" aria-hidden="true"></i> Code
+      {% if project.github_stars %}
+        <span class="stars"><i class="fa-solid fa-star" aria-hidden="true"></i> <span id="{{ project.github_stars }}-stars"></span></span>
+      {% endif %}
+    </a>
+  {% endif %}
 </div>
