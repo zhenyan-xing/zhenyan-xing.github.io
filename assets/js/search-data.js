@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research-projects",
-          title: "research projects",
-          description: "A growing collection of my interesting de novo protein design projects",
+  },{id: "nav-projects",
+          title: "projects",
+          description: "Selected research and engineering projects in protein design, computational biology, and device development.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -428,26 +428,31 @@ ninja.data = [{
             },},{id: "news-starting-to-build-my-academic-website",
           title: 'Starting to build my academic website',
           description: "",
-          section: "News",},{id: "projects-de-novo-binder-design-targeting-dele-1",
-          title: 'de novo binder design targeting DELE-1',
-          description: "De novo design binders targeting DELE-1 to inhibit interactions with HRI",
+          section: "News",},{id: "projects-de-novo-binder-design-targeting-dele1",
+          title: 'De Novo Binder Design Targeting DELE1',
+          description: "Computational design of candidate binders targeting DELE1 to perturb DELE1-HRI interactions.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/DELE-1%20binder%20design/";
-            },},{id: "projects-hallucination-co-design-of-protein-rna-complexes",
-          title: 'Hallucination Co-Design of Protein–RNA Complexes',
-          description: "Exploring hallucination and model-inversion strategies for protein–RNA binder design.",
+            },},{id: "projects-bird-biophysics-informed-de-novo-rna-binder-design",
+          title: 'BIRD: Biophysics Informed de novo RNA Binder Design',
+          description: "Designing RNA sequences for protein targets by optimizing structural confidence, RNA geometry, and interface chemistry.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Hallucination%20Co-Design%20of%20Protein%E2%80%93RNA%20Complexes%20/";
-            },},{id: "projects-helixlinkerlab-a-automatic-pipline-for-protein-linker-design",
-          title: 'HelixLinkerLab: a automatic pipline for protein linker design',
-          description: "An automatic pipline to design de novo helical linkers for protein using structure prediction models and inverse folding",
+            },},{id: "projects-helixlinkerlab-an-automated-pipeline-for-protein-linker-design",
+          title: 'HelixLinkerLab: An Automated Pipeline for Protein Linker Design',
+          description: "A reusable pipeline for designing de novo helical linkers with structure prediction and inverse folding.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HelixLinkerLab/";
             },},{id: "projects-rfdiffusion-based-de-novo-symmetric-protein-design",
           title: 'RFdiffusion-based de novo symmetric protein design',
-          description: "De novo design of closed repeat proteins using RFdiffusion, ProteinMPNN, and SuperFold. The work was done in sustech under the supervision of Prof. Zhe Li",
+          description: "De novo design of closed repeat proteins using RFdiffusion, ProteinMPNN, and SuperFold at SUSTech under the supervision of Prof. Zhe Li.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RFdiffusion-based%20symmetric%20protein%20design/";
+            },},{id: "projects-bc-design-a-biochemistry-aware-framework-for-inverse-protein-design",
+          title: 'BC-Design: A Biochemistry-Aware Framework for Inverse Protein Design',
+          description: "Evaluating how biochemical conditioning shapes protein sequence design through controlled experiments and molecular dynamics analysis.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bc-design/";
             },},{id: "projects-development-of-a-device-for-producing-air-discharge-plasma-activated-mist",
           title: 'Development of a Device for Producing Air-Discharge Plasma-Activated Mist',
           description: "A magnetic component was developed for the atomization device to magnetize plasma-activated water and enhance the atomization effect.",
