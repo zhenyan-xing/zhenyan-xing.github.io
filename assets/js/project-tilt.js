@@ -138,10 +138,13 @@
       });
       pointer.inside = false;
       pointer.vx = 0;
+      pointer.x = 0;
+      pointer.y = 0;
       body.style.transform = "";
       body.style.willChange = "";
       body.style.setProperty("--tc-glare", "0");
       caption.style.opacity = "0";
+      caption.style.transform = "";
       shade.style.opacity = "0";
       figure.removeAttribute("data-active");
     }
@@ -159,7 +162,7 @@
     });
     window.addEventListener("blur", leave);
     window.addEventListener("scroll", leave, { passive: true });
-    window.addEventListener("resize", leave, { passive: true });
+    window.addEventListener("resize", reset, { passive: true });
     function motionChanged() {
       reset();
       if (fine.matches && !reduced.matches) wake();
