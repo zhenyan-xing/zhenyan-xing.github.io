@@ -1,10 +1,11 @@
 cv:
-  name: Zhenyan Xing
+  name: Zhenyan Xing(Zingjim Hang)
   label: Undergraduate Researcher
   email: zyxing05@gmail.com
   location: Xi'an China / Charlottesville, VA
   image: ""
-  summary: An undergraduate in Electrical Engineering at Xi’an Jiaotong University, working on machine learning for biomolecular design.
+  summary: An undergraduate majoring in Electrical Engineering at Xi’an Jiaotong University, a research assistant in Prof. Yu Li’s lab at CUHK, and a
+    former research assistant in Prof. Jie Yang’s lab at UVA.
   social_networks:
     - network: GitHub
       username: zhenyan-xing
@@ -17,166 +18,96 @@ cv:
     postalCode: VA 22903
     countryCode: US
   sections:
-    Research Interests:
-      - bullet:
-          I am interested in generative models and multimodal learning for biomolecular design and therapeutic discovery. My goal is to understand how
-          molecular sequence, structure, and function can inform the design of new biomolecules.
     Education:
-      - institution: Xi’an Jiaotong University
-        location: Xi’an, China
+      - institution: Xi'an Jiaotong University
+        location: Xi'an, China
         url: https://en.xjtu.edu.cn/
         area: Electrical Engineering
-        studyType: BS
-        start_date: 2023-09
-        end_date: 2027-07
-        highlights:
-          - "Undergraduate cumulative GPA: 3.63/4.3"
-          - "Relevant coursework: Optimization Theory and Algorithms: 96 (1/78); Biochemistry: 95 (1/125)"
+        studyType: Undergraduate Student
+        start_date: 2023
+        end_date: 2027
       - institution: The Hong Kong Polytechnic University
         location: Hong Kong
         url: https://www.polyu.edu.hk/
         area: Electrical Engineering
-        studyType: Exchange Student
-        start_date: 2025-09
-        end_date: 2025-12
-        highlights:
-          - "Cumulative GPA: 3.5/4.3"
+        studyType: Exchange student
+        start_date: 2025
+        end_date: 2025
     Manuscripts:
       - bullet:
           "**Zhenyan Xing**, Dongchen He, Ziyan Zhuang, Yanruisheng Shao, and Yu Li. *BIRD: Biophysics Informed de novo RNA Binder Design.* To be
           submitted to *Bioinformatics*."
       - bullet:
-          "Xiangru Tang<sup>*</sup>, Xinwu Ye<sup>*</sup>, Fang Wu<sup>*</sup>, **Zhenyan Xing**<sup>*</sup>, Yimeng Liu, Anna Su, Antonia Panescu,
-          Guanlue Li, Daniel Shao, Dong Xu, and Mark Gerstein. *BC-Design: A Biochemistry-Aware Framework for Inverse Protein Design.* In revision at
-          *Cell Systems*. <sup>*</sup>Equal contribution."
+          "Xiangru Tang<sup>&#42;</sup>, Xinwu Ye<sup>&#42;</sup>, Fang Wu<sup>&#42;</sup>, **Zhenyan Xing**<sup>&#42;</sup>, Yimeng Liu, Anna Su,
+          Antonia Panescu, Guanlue Li, Daniel Shao, Dong Xu, and Mark Gerstein. *BC-Design: A Biochemistry-Aware Framework for Inverse Protein
+          Design.* In revision at *Cell Systems*. <sup>&#42;</sup>Equal contribution."
     Experience:
       - company: Chinese University of Hong Kong
         position: "BIRD: Biophysics Informed de novo RNA Binder Design"
         location: Hong Kong
         start_date: Dec 2025
         end_date: Present
-        highlights:
-          - Developed BIRD to design RNA sequences for protein targets through sequence optimization with a frozen Protenix structure predictor.
-          - Designed objectives for RNA geometry and interface chemistry, and combined continuous sequence optimization with discrete mutation search.
-          - Evaluated BIRD against four other methods on 109 shared protein targets using AF3, and conducted component ablations and molecular
-            dynamics case studies.
-        summary: "Supervisor: Prof. Yu Li"
         url: https://anonymous.4open.science/r/BIRD-5D34/
+        summary: Designing RNA sequences for protein targets with a frozen Protenix predictor and geometry and interface chemistry objectives.
       - company: Tsinghua University
         position: "HomoPrefix: Homolog-Conditioned Protein Sequence Generation"
         location: Shenzhen, China
         start_date: Jun 2026
         end_date: Present
-        highlights:
-          - Developed HomoPrefix for protein sequence generation conditioned on homologous proteins, using PoET representations to provide sequence
-            context to a ProGen2 decoder.
-          - Trained and compared generators using compressed reference summaries or residue memory, alongside a model without homologous context,
-            under different sequence prefix lengths.
-          - Evaluated the use of homologous context on 317 test proteins from families represented in training, using mismatched references while
-            holding targets, prefixes, and model weights fixed.
-        summary: "Supervisor: Prof. Ziqi Gao"
+        summary: Developing protein sequence generators conditioned on homologous proteins using PoET representations and ProGen2.
       - company: Xi’an Jiaotong University
         position: "AbFUSE: Joint Antibody Optimization for Discriminating Similar Targets"
         location: Xi’an, China
         start_date: Sept 2026
         end_date: Oct 2026
-        highlights:
-          - Investigating whether molecular dynamics supervision can improve downstream sequence generation, using antibody design and target
-            discrimination as the application.
-          - Built supervision from ATLAS trajectories covering 835 protein systems and adapted Protenix to predict residue fluctuations, distance
-            variability, and correlated motion.
-          - Developed dynamics prediction heads using Protenix pair representations and evaluated them using frozen backbone and mismatched
-            correlation controls.
-          - Implemented a workflow to optimize one antibody sequence against intended and related off targets using frozen structure and affinity
-            predictors.
-        summary: "Supervisor: Fei Wang"
+        summary: Exploring whether molecular dynamics information improves downstream antibody sequence generation and target discrimination.
       - company: Collaboration with Xiangru Tang
         position: "BC-Design: A Biochemistry-Aware Framework for Inverse Protein Design"
         location: Remote
         start_date: Aug 2026
         end_date: Oct 2026
-        highlights:
-          - Conducted controlled experiments on biochemical masking, feature perturbation, and input identifiability to assess how conditioning
-            information affects sequence recovery.
-          - Evaluated enzyme and antibody design applications using computational metrics and analyzed molecular dynamics trajectories for PGK
-            complexes.
-          - Prepared responses to reviewers and revised the manuscript to incorporate the additional experiments and clarify the scope of biochemical
-            conditioning.
         url: https://github.com/gersteinlab/BC-Design
+        summary: Conducted conditioning experiments and molecular dynamics analyses, and contributed to the rebuttal and manuscript revision.
       - company: University of Virginia
         position: "HelixLinkerLab: AI-Assisted Automatic Design for Protein Fusion Linker"
         location: Charlottesville, VA
         start_date: Feb 2026
         end_date: Apr 2026
-        highlights:
-          - Developed HelixLinkerLab to generate and evaluate protein fusion constructs from sequence or structure inputs, extending the MBP–DELE1
-            linker design workflow to other targets.
-          - Integrated analysis of terminal helices and fusion junctions with candidate linker generation, structure prediction, and local sequence
-            redesign.
-          - Developed computational ranking criteria based on junction confidence, helix continuity, steric clashes, and consistency across prediction
-            seeds.
-        summary: "Supervisor: Prof. Jie Yang"
+        summary: Developed an automated workflow for generating and evaluating protein fusion linkers.
       - company: University of Virginia
         position: De novo Helical Linker Design for MBP–DELE1 Fusion Proteins
         location: Charlottesville, VA
         start_date: Nov 2025
         end_date: Feb 2026
-        highlights:
-          - Designed rigid helical linkers connecting MBP to the DELE1 C-terminal domain to support structural and biochemical characterization.
-          - Built a pipeline using RFdiffusion, ProteinMPNN, and AlphaFold3 to generate and computationally assess fusion constructs, selecting five
-            candidates using predicted confidence and helix continuity.
-          - Analyzed predicted junction interactions and proposed sequence changes to address unfavorable polar contacts and steric clashes.
-        summary: "Supervisor: Prof. Jie Yang"
+        summary: Designed and computationally screened rigid helical linkers for MBP–DELE1 fusion proteins.
       - company: Southern University of Science and Technology
         position: RFdiffusion-based de novo Closed Repeat Protein Design
         location: Shenzhen, China
         start_date: Jun 2025
         end_date: Aug 2025
-        highlights:
-          - Developed a workflow with RFdiffusion to generate and connect symmetric protein structures into closed repeat proteins.
-          - Generated multiple sequences for candidate structures with ProteinMPNN and evaluated them with SuperFold.
-          - Generated 80,224 candidate structures and retained 29,601 after computational screening with SuperFold.
-        summary: "Supervisor: Prof. Zhe Li"
+        summary: Generated and screened closed repeat proteins using RFdiffusion, ProteinMPNN, and SuperFold.
     Awards:
-      - title: Honorable Mention (H), Mathematical Contest in Modeling
-        date: "2025"
-        summary: 23%
-      - title: University First-Class Scholarship
-        date: "2025"
-        summary: ≤1.5%
-      - title: Ruwen Wang Electrical Scholarship
-        date: "2024"
-        summary: 7.4%
-      - title: Provincial First Prize, China International College Students’ Innovation Competition
-        date: "2025"
-    Activities:
-      - bullet:
-          "**Captain, Campus Ambassador Team**, Admission Office, Xi’an Jiaotong University (Oct 2023 – Jun 2024). Sole recipient from Chongqing for
-          Outstanding Individual in Admissions Promotion."
-      - bullet:
-          "**Head, Youth League Organization and Guidance Center**, The Youth League Committee of Xi’an Jiaotong University (Oct 2023 – Jul 2025).
-          Recognized as an excellent student leader of the department."
+      - title: Honorable Mention (H), Mathematical Contest in Modeling (MCM)
+        date: 2026-05-09
+        awarder: COMAP – The Consortium for Mathematics and its Applications
+        url: https://www.comap.com/contests/mcm-icm
+      - title: Provincial First Prize in Mathematical Modeling
+        date: 2025-12-01
+        awarder: Chinese Society for Industrial and Applied Mathematics
+        url: https://en.mcm.edu.cn/
     Skills:
-      - name: Protein Tools
-        keywords:
-          - RFdiffusion
-          - ProteinMPNN
-          - AlphaFold 3
-          - SuperFold
-          - PyMOL
-      - name: Technical
-        keywords:
-          - Python
-          - C++
-          - MATLAB
-          - Linux
-          - PyTorch
-          - TensorFlow
-          - CAD
-          - Multisim
-          - COMSOL
+      - name: Protein design
+        level: Master
+        keywords: de novo protein design, protein therapeutics, AI for protein
     Languages:
-      - name: Chinese
+      - name: Mandarin
         summary: Native speaker
       - name: English
-        summary: Proficient; TOEFL 5.0/6.0; Duolingo 125/150; CET-6 541/710
+        summary: Fluent
+      - name: Cantonese
+        summary: Fluent
+      - name: Latin
+        summary: Learning
+    Interests:
+      - name: computational biology
+        keywords: de novo protein design, protein therapeutics, AI for protein
